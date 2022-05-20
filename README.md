@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-h1 align="center">Hi 👋, I'm Jaycon Madrid</h1>
+<h1 align="center">Hi 👋, I'm Jaycon Madrid</h1>
 <h3 align="center">A Aspiring Front-end Developer from PH.</h3>
 <img align="right" alt="Coding" width="400" src=" https://static.wixstatic.com/media/a3696e_d6c126b829a84a2098a660e2b89ddec3~mv2.png/v1/crop/x_0,y_9,w_787,h_563/fill/w_760,h_563,al_c,enc_auto/undraw_programming_re_kg9v.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaycon-jude-madrid&label=Profile%20views&color=0e75b6&style=flat" alt="jaycon-jude-madrid" /> </p>
