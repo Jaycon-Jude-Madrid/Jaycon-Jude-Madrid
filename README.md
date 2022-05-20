@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jaycon Madrid</h1>
+<h1 align="center">Hi 👋, I'm Jaycon Madrid</h1><img align="center" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" >
 <h3 align="center">A Student, Aspiring developer and a goal-setter</h3>
-<img align="center" alt="Coding" width="600" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaycon-jude-madrid&label=Profile%20views&color=0e75b6&style=flat" alt="jaycon-jude-madrid" /> </p>
 
