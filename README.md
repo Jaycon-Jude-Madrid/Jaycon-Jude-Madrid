@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi 👋, I'm Jaycon Madrid</h1>
-<h3 align="center">A Student, Aspiring developer and a goal-setter</h3>
+<h3 align="center">Junior Front-end developer</h3>
 <p align="center"><img align="center" alt="Coding" width="500"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" > </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaycon-jude-madrid&label=Profile%20views&color=0e75b6&style=flat" alt="jaycon-jude-madrid" /> </p>
 
