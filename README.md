@@ -2,7 +2,6 @@
 <p align="center"><img align="center" alt="Coding" width="500"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" > </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaycon-jude-madrid&label=Profile%20views&color=0e75b6&style=flat" alt="jaycon-jude-madrid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaycon-jude-madrid" alt="jaycon-jude-madrid" /></a> </p>
 
 - 🌱 I’m currently learning **Front-End Stuff, Focusing on ReactJS.**
 
